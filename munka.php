@@ -23,7 +23,13 @@ print "<br / ><br />" . $x - $y;
 
 print "konfliktus lesz...";
 
+// Osztás
+//------------------
 
+$egyik = 25;
+$masik = 5;
+
+print ($egyik / $masik) . "<br /><br />";
 //Itt a vége. :-)
 
 ?>
