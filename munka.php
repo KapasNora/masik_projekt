@@ -16,14 +16,30 @@ print $a + $b + $c;
 // Kivonás
 //------------------
 
-$x = 35;
-$y = 19;
+$x = 15;
+$y = 59;
+$z = 370;
 
-print "<br / ><br />" . $x - $y;
+print "<br / ><br />" . $x - $y - $x . "<br / ><br />";
 
 
-print "konfliktus lesz...";
 
+
+// Osztás
+//------------------
+
+$egyik = 25;
+$masik = 5;
+
+print ($egyik / $masik) . "<br /><br />";
+
+// Szorzás
+//------------------
+
+$kicsi = 3;
+$nagy = 23;
+
+print ($kicsi * $nagy) . "<br / ><br />";
 
 //Itt a vége. :-)
 
