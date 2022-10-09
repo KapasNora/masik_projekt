@@ -15,14 +15,12 @@ print $a + $b + $c;
 // Kivonás
 //------------------
 
-$x = 35;
-$y = 19;
-$ = 37;
+$x = 15;
+$y = 59;
+$z = 370;
 
-print "<br / ><br />" . $x - $y;
+print "<br / ><br />" . $x - $y - $x ;
 
-
-print "konfliktus lesz...";
 
 
 //Itt a vége. :-)
