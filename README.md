@@ -10,3 +10,7 @@ A webtanár **oktatóvideója** alapján készült ez a *formázott* szöveg.
 1. lista elem
 2. lista elem
 3. lista elem
+
+webtanár: https://webuni.hu/
+
+[webtanár]([https://www.google.com](https://webuni.hu/)
