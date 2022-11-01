@@ -21,7 +21,7 @@ Ebben a sorban beilleszettt `</b>kódrészlet</b>` van
 $kicsi = 3;
 $nagy = 23;
 
-print ($kicsi * $nagy) . "<br / ><br />";
+echo ($kicsi * $nagy) . "<br / ><br />";
 
 ```
 
