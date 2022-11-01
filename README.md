@@ -25,3 +25,9 @@ echo ($kicsi * $nagy) . "<br / ><br />";
 
 ```
 
+
+```javascript
+var p = 3;
+alert("hahaha");
+
+```
