@@ -17,7 +17,7 @@ webtanár: https://webuni.hu/
 
 Ebben a sorban beilleszettt `</b>kódrészlet</b>` van 
 
-###PHP kód:
+### PHP kód:
 ```php
 $kicsi = 3;
 $nagy = 23;
