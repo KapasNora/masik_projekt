@@ -13,4 +13,4 @@ A webtanár **oktatóvideója** alapján készült ez a *formázott* szöveg.
 
 webtanár: https://webuni.hu/
 
-[webtanár] ([https://www.google.com](https://webuni.hu/)
+[webtanár] ([https://www.google.com](https://webuni.hu)
