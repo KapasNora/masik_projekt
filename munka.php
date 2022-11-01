@@ -6,11 +6,13 @@
 // Összeadás
 //------------------
 
-$a = 105;
-$b = 17;
-$c = 12;
+$a = 1105;
+$b = 217;
+$c = 32;
 
 print $a + $b + $c;
+
+// GitHubon szerkesztettem :)
 
 // Kivonás
 //------------------
