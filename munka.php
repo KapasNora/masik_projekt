@@ -43,4 +43,6 @@ print ($kicsi * $nagy) . "<br / ><br />";
 
 //Itt a vége. :-)
 
+// Saját gépen frissitve
+
 ?>
