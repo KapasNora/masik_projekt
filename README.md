@@ -14,3 +14,14 @@ A webtanár **oktatóvideója** alapján készült ez a *formázott* szöveg.
 webtanár: https://webuni.hu/
 
 [webtanar](https://webuni.hu)
+
+Ebben a sorban beilleszettt `</b>kódrészlet</b>` van 
+
+```
+$kicsi = 3;
+$nagy = 23;
+
+print ($kicsi * $nagy) . "<br / ><br />";
+
+```
+
