@@ -6,12 +6,15 @@
 // Összeadás
 //------------------
 
-$a = 105;
-$b = 17;
-$c = 12;
-$d = 34;
+
+$a = 1105;
+$b = 217;
+$c = 32;
+
 
 print $a + $b + $c;
+
+// GitHubon szerkesztettem :)
 
 // Kivonás
 //------------------
@@ -42,5 +45,8 @@ $nagy = 23;
 print ($kicsi * $nagy) . "<br / ><br />";
 
 //Itt a vége. :-)
+
+// Saját gépen frissitve
+// új próbálkozás
 
 ?>
